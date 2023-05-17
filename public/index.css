@@ -75,6 +75,10 @@
   display: block;
 }
 
+.page-not-found {
+  text-align: center;
+}
+
 .pet-detail {
   display: flex;
   width: 100%;
